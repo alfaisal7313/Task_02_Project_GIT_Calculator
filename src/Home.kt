@@ -9,5 +9,6 @@ open class Home {
         println("=====================")
         println("+Aplikasi Kalkulator+")
         Plus().print(20, 30)
+        Minus().print(50, 30)
     }
 }

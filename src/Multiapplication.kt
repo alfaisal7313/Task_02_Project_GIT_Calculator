@@ -10,10 +10,10 @@ class Multiapplication {
 
         print("Masukan Nila 1: ")
         nil1 = readLine()!!.toInt()
-        println("Masukan Nila 2: ")
-        nil1 = readLine()!!.toInt()
+        print("Masukan Nila 2: ")
+        nil2 = readLine()!!.toInt()
 
-        print("Nilai A : ${nil1}")
+        println("Nilai A : ${nil1}")
         println("Nilai B : ${nil2}")
 
         println("Total Penambahan : ${nil1 + nil2}")

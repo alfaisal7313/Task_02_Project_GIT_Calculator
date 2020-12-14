@@ -9,5 +9,7 @@ open class Home {
         Plus().print(20, 30)
         Minus().print(50, 30)
         Bagi().print(10, 5)
+
+        Multiapplication().print()
     }
 }
